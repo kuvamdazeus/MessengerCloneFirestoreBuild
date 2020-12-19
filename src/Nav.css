@@ -1,0 +1,31 @@
+.nav_icon {
+    height: 50px;
+    margin-left: 12px;
+}
+
+.nav {
+    /* border: 1px solid white; */
+    display: flex;
+    align-items: center;
+    background-color: rgb(15, 15, 15);
+    height: 60px
+}
+
+.nav_image {
+    flex: 0.2;
+}
+
+.nav_text {
+    font-size: 20px;
+}
+
+.nav_text:hover {
+    color: rgb(133, 151, 255);
+}
+
+.nav_opts {
+    display: flex;
+    flex: 0.8;
+    justify-content: space-around;
+    align-items: center;
+}

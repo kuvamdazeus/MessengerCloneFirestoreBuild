@@ -1,0 +1,17 @@
+.home_text {
+    font-size: 4.5vw;
+    background: -webkit-linear-gradient(rgb(183, 0, 255), rgb(0, 247, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home_items {
+    margin-top: 20vh;
+    text-align: center;
+}

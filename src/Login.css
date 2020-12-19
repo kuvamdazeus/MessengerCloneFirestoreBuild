@@ -1,0 +1,36 @@
+.router-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.login {
+    background-color: rgb(31, 31, 31);
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+}
+
+.textfield {
+    width: 60vw;
+    margin-bottom: 10px;
+}
+
+.login_dialog {
+    /* border: 1px solid white; */
+    background-position: center;
+    background-size: 100vw;
+    position: absolute;
+    margin-top: 10vh;
+    width: 99.8vw;
+    /* background-image: url('https://cdn.dribbble.com/users/14451/screenshots/12340129/media/1527218a97a98012e29bb37be9f2aae5.png?compress=1&resize=400x300'); */
+    background-repeat: no-repeat;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.login_items {
+    text-align: center;
+}

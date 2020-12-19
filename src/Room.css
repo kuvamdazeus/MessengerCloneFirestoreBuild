@@ -1,0 +1,8 @@
+.message_container {
+    overflow-y: scroll;
+    height: 83vh;
+}
+
+.message_container::-webkit-scrollbar {
+    display: none;
+}
