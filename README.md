@@ -6,3 +6,6 @@ Features:
 ------------------------------
 ## Confession:
 Should have used google oauth2 for entering into rooms instead an alert prompt asking name :/
+
+## Using firebase & firestore for newbies
+  You may refer this 7-minute video for all firebase & react js things https://youtu.be/1wZw7RvXPRU
