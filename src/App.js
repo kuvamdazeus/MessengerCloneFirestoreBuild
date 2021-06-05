@@ -12,7 +12,6 @@ function App() {
 
       <div className="app">
         <Nav />
-        {/* Add a theme switch button */}
 
         <Switch>
           <Route exact path="/" component={Login} />
